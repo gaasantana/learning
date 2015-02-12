@@ -1,3 +1,3 @@
 # learning
 ===
-Content to be included later
+Content included
